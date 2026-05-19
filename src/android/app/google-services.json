@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "34773544700",
+    "project_id": "raven-d8e0b",
+    "storage_bucket": "raven-d8e0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34773544700:android:1a9ae87a53b5533d4cb179",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB_EsgDPPXOMUYBH_zMkDVp4M7D4RdTjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34773544700:android:a6c6e40024b7f19b4cb179",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB_EsgDPPXOMUYBH_zMkDVp4M7D4RdTjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
