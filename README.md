@@ -1,4 +1,4 @@
-# 🐦 Raven (whatsapp2)
+# 🐦 Raven
 
 > **Privacidade sob pressão.** Um protótipo de comunicação segura com foco em negação plausível e proteção contra coerção física.
 
