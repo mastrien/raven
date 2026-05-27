@@ -15,7 +15,7 @@ class _SplashScreenState extends State<SplashScreen> {
 
     Timer(const Duration(milliseconds: 1400), () {
       if (!mounted) return;
-      Navigator.pushReplacementNamed(context, '/lock');
+      Navigator.pushReplacementNamed(context, '/gate');
     });
   }
 
@@ -53,7 +53,7 @@ class _SplashScreenState extends State<SplashScreen> {
             ),
             const SizedBox(height: 8),
             Text(
-              'Privacidade sob pressão',
+              'Privacy under pressure',
               style: TextStyle(
                 fontSize: 15,
                 color: Colors.white.withOpacity(0.68),
